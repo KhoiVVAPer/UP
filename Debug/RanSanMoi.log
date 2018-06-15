@@ -1,0 +1,5 @@
+﻿  GAME.cpp
+c:\users\administrator\documents\visual studio 2015\projects\project1\ransanmoi\game.cpp(4): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\administrator\documents\visual studio 2015\projects\project1\ransanmoi\game.cpp(55): warning C4553: '==': operator has no effect; did you intend '='?
+  RanSanMoi.vcxproj -> c:\users\administrator\documents\visual studio 2015\Projects\Project1\Debug\RanSanMoi.exe
+  RanSanMoi.vcxproj -> c:\users\administrator\documents\visual studio 2015\Projects\Project1\Debug\RanSanMoi.pdb (Partial PDB)
